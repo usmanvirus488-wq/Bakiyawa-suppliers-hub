@@ -1,0 +1,6 @@
+{
+  "name": "Bakiyawa Supplies Hub",
+  "description": "Premium building materials and equipment booking platform for builders and contractors in Abuja.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["Product Catalog", "Service Booking", "Order Tracking"]
+}
